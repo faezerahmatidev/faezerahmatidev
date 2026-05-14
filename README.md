@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faeze Rahmati</h1>
-<h3 align="center">Frontend Developer | Passionate about building modern, responsive & user-friendly web applications</h3>
+<h3 align="center">Frontend Developer | Building modern, responsive, and user-friendly web applications</h3>
 
 ---
 
 ### 🚀 About Me
 I'm a Frontend Developer focused on creating clean, responsive, and user-friendly web interfaces.  
-I enjoy working with modern web technologies, improving UI/UX, and continuously learning new tools to enhance my development workflow.
+I enjoy working with modern web technologies, enhancing UI/UX, and continuously learning new tools to improve my development workflow.
 
 ---
 
@@ -19,8 +19,8 @@ I enjoy working with modern web technologies, improving UI/UX, and continuously 
 
 ### 🎯 What I'm Working On
 - Developing modern front-end applications using Angular  
-- Improving my TypeScript & UI/UX design skills  
-- Building real-world projects to grow my portfolio  
+- Improving my TypeScript and UI/UX design skills  
+- Building real-world projects to expand my portfolio  
 
 ---
 
