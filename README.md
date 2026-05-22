@@ -27,9 +27,9 @@ I enjoy working with modern web technologies, enhancing UI/UX, and continuously 
 ### 📫 Contact Me
 📧 Email: **rahmati.faeze1997@gmail.com**
 <p align="left">
-  <a href="www.linkedin.com/in/faeze-rahmati" style="display: flex; align-items: center; text-decoration: none; color: #0077B5; font-weight: bold;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="25" style="vertical-align: middle; margin-right: 8px;">
-    www.linkedin.com/in/faeze-rahmati
+  <a href="https://www.linkedin.com/in/faeze-rahmati/" style="display: flex; align-items: center; justify-content: center; text-decoration: none; color: #0077B5; font-weight: bold;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="25" style="vertical-align: middle; margin-right: 8px;">[
+    https://www.linkedin.com/in/faeze-rahmati/
   </a>
 </p>
 
