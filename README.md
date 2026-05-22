@@ -11,10 +11,8 @@ I enjoy working with modern web technologies, enhancing UI/UX, and continuously 
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-<a href="https://www.linkedin.com/in/faeze-rahmati" target="blank">
-<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="linkedin" width="30" height="30"/>
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,angular,git,gitlab,github" />
 </p>
 
 ---
@@ -28,7 +26,11 @@ I enjoy working with modern web technologies, enhancing UI/UX, and continuously 
 
 ### 📫 Contact Me
 📧 Email: **rahmati.faeze1997@gmail.com**
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/faeze-rahmati)
+<p align="left">
+<a href="https://www.linkedin.com/in/faeze-rahmati" target="blank">
+<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="linkedin" width="30" height="30"/>faeze-rahmati
+</a>
+</p>
 
 ---
 
