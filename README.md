@@ -32,7 +32,7 @@ I enjoy working with modern web technologies, enhancing UI/UX, and continuously 
     https://www.linkedin.com/in/faeze-rahmati
   </a>
 </p>
-
+ [![Gravatar](https://example.com/path/to/gravatar-icon.png)](https://gravatar.com/collectortotally73d11dc7aa)
 
 ---
 
